@@ -13,7 +13,7 @@
         "n": "lbUg7EzCiYDBCK_lwLAZe4Uh5YEA_8FDtyufZDDPbElUyIbjDPL3l0Iwt20O-I5Oxpy7vTZxIPD9uTCjO0T1DskTQCP0ht6ZumDpzt_pQUfJEKkRMJRtL9y2WRn8UGbe6QVq-mQnKE_qEruUKRrZtpL_zzqbNp2XJzSOEIgJM6k9OgOcPtI4TXyO3jLrS4wDNrHSOlQQbk1H2fDZIDovgT32ISnZTyzDtVrGecxDIIreuhmFJa3rDNQLSAl_yv8HXTzzW0S1g-5viOs1xigtjsnK-53724dljuZfa4vH70siJqQuEieVEB-TW1czXSbBXQMqSIgYVNVY38qarQ5-Uw",
         "e": "AQAB",
         "alg": "RS256",
-        "x5u": "https://raw.githubusercontent.com/JoseRioVazquez/gaiax/main/public_key.pem"
+        "x5u": "https://raw.githubusercontent.com/JoseRioVazquez/gaiax/main/cert.pem"
       }
     }
   ],
