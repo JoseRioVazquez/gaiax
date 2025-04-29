@@ -6,7 +6,7 @@
   "id": "did:web:raw.githubusercontent.com:JoseRioVazquez:gaiax:main",
   "verificationMethod": [
     {
-      "id": "did:web:raw.githubusercontent.com:JoseRioVazquez:gaiax:main#key-0",
+      "id": "did:web:raw.githubusercontent.com:JoseRioVazquez:gaiax:main#{A unique ID for this verification method}",
       "type": "JsonWebKey2020",
       "publicKeyJwk": {
         "kty": "RSA",
@@ -18,6 +18,6 @@
     }
   ],
   "assertionMethod": [
-      "id": "did:web:raw.githubusercontent.com:JoseRioVazquez:gaiax:main#key-0"
+      "id": "did:web:raw.githubusercontent.com:JoseRioVazquez:gaiax:main#{A unique ID for this verification method}"
   ]
 }
