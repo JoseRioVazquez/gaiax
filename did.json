@@ -18,6 +18,6 @@
     }
   ],
   "assertionMethod": [
-    "did:web:raw.githubusercontent.com:JoseRioVazquez:gaiax:main#key-0"
+      "id": "did:web:github.cm:JoseRioVazquez:gaiax:main#key-0"
   ]
 }
